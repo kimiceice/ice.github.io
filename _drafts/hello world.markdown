@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "冰冰世界"
 date:   2019-04-11 23:16:21 +0800
 categories: jekyll update
